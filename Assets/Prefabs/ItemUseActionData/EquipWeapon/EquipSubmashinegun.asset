@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 700a7f785b3ba0a43afa3e9c1f191ad6, type: 3}
+  m_Name: EquipSubmashinegun
+  m_EditorClassIdentifier: 
+  bulletsMax: 40
+  weaponPrefab: {fileID: 4057358107573053425, guid: 2221d29127c09fe48b1e34f8b6b9ef03,
+    type: 3}
+  bulletsItemType: {fileID: 11400000, guid: 18606c9c052cb2f43be11cc41beba393, type: 2}
+  itemData: {fileID: 11400000, guid: bc824b48233553e488b9b654f77dab03, type: 2}
+  autofire: 1
+  fireRate: 0.1
+  bulletsPerShot: 1
+  dispertion: 5
